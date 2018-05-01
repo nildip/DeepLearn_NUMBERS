@@ -1,5 +1,5 @@
 # DeepLearn_NUMBERS
-A brief dive into the MNIST dataset.
+## A brief dive into the MNIST dataset.
 
 The MNIST problem is a dataset developed by Yann LeCun, Corinna Cortes and Christopher Burges for evaluating machine learning models on the handwritten digit classification problem.
 
