@@ -125,7 +125,7 @@ def stacked_2Dcnn(n_class, image_height, image_width):
     model = Model(input_shape, out)
     return model
 
-#Multilayer Multitowered Stacked 2D CNN
+#Multilayer Multitowered 2D CNN
 def multitower_2Dcnn(n_class, image_height, image_width):
     # input shape
     input_shape = Input(shape=(image_height, image_width, 1))
