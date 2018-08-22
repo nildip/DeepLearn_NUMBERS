@@ -11,3 +11,4 @@ It is a digit recognition task. As such there are 10 digits (0 to 9) or 10 class
 
 For our experiments, we'll fit various types of neural nets (vanilla multilayered perceptron, 1D CNN & 2D CNN) and evaluate the accuarcies for each of these models on the test set. A diagramatic representation of the models, along with the accuracy achieved by each model is noted below:
 
+![Alt text](https://github.com/nildip/DeepLearn_NUMBERS/blob/master/model_images/model_simple_1Dcnn.png "Title")
