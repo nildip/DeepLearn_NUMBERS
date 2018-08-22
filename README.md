@@ -11,19 +11,19 @@ It is a digit recognition task. As such there are 10 digits (0 to 9) or 10 class
 
 For our experiments, we'll fit various types of neural nets (vanilla multilayered perceptron, 1D CNN & 2D CNN) and evaluate the accuarcies for each of these models on the test set. A diagramatic representation of the models, along with the accuracy achieved by each model is noted below:
 
-### Multilayer Perceptron - Accuracy = 98.15%
+### Multilayer Perceptron - Accuracy = 98.22%
 
 
 ![Alt text](https://github.com/nildip/DeepLearn_NUMBERS/blob/master/model_images/model_simple_nn.png)
 
 
-### Multilayer 1D CNN - Accuracy = 98.42%
+### Multilayer 1D CNN - Accuracy = 98.31%
 
 
 ![Alt text](https://github.com/nildip/DeepLearn_NUMBERS/blob/master/model_images/model_simple_1Dcnn.png)
 
 
-### Multilayer 2D CNN - Accuracy = 98.74%
+### Multilayer 2D CNN - Accuracy = 98.67%
 
 
 ![Alt text](https://github.com/nildip/DeepLearn_NUMBERS/blob/master/model_images/model_simple_2Dcnn.png)
@@ -35,13 +35,13 @@ For our experiments, we'll fit various types of neural nets (vanilla multilayere
 ![Alt text](https://github.com/nildip/DeepLearn_NUMBERS/blob/master/model_images/model_stacked_1Dcnn.png)
 
 
-### Multilayer Stacked 2D CNN - Accuracy = 99.04%
+### Multilayer Stacked 2D CNN - Accuracy = 98.87%
 
 
 ![Alt text](https://github.com/nildip/DeepLearn_NUMBERS/blob/master/model_images/model_stacked_2Dcnn.png)
 
 
-### Multilayer Multitowered 2D CNN - Accuracy = 98.73%
+### Multilayer Multitowered 2D CNN - Accuracy = 98.75%
 
 
 ![Alt text](https://github.com/nildip/DeepLearn_NUMBERS/blob/master/model_images/model_multitower_2Dcnn.png)
