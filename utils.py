@@ -37,7 +37,7 @@ def visualize_filter(model, input_X, input_Y, layer_num):
         X_layer = np.expand_dims(X_layer, axis=4)
         layer_output = get_filter_output([X_layer])[0]
         plt.figure(figsize=(20,20))
-        for i in range(0, model.layers[k].get_config()['filters']):
+        for i in range(0, model.layers[layer_num].get_config()['filters']):
             plt.subplot(1, 5, i+1)
             plt.title('Output of filter {0}, input = {1}'.format(i+1, k))
             plt.imshow(layer_output[0][:,:,i], cmap = plt.get_cmap('gray_r'))
