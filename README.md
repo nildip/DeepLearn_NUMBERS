@@ -8,3 +8,6 @@ Images of digits were taken from a variety of scanned documents, normalized in s
 Each image is a 28 by 28 pixel square (784 pixels total). A standard spit of the dataset is used to evaluate and compare models, where 60,000 images are used to train a model and a separate set of 10,000 images are used to test it.
 
 It is a digit recognition task. As such there are 10 digits (0 to 9) or 10 classes to predict. Results are reported using prediction error, which is nothing more than the inverted classification accuracy.
+
+For our experiments, we'll fit various types of neural nets (vanilla multilayered perceptron, 1D CNN & 2D CNN) and evaluate the accuarcies for each of these models on the test set. A diagramatic representation of the models, along with the accuracy achieved by each model is noted below:
+
