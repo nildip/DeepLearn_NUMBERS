@@ -11,37 +11,37 @@ It is a digit recognition task. As such there are 10 digits (0 to 9) or 10 class
 
 For our experiments, we'll fit various types of neural nets (vanilla multilayered perceptron, 1D CNN & 2D CNN) and evaluate the accuarcies for each of these models on the test set. A diagramatic representation of the models, along with the accuracy achieved by each model is noted below:
 
-Multilayer Perceptron - Accuracy = 98.15%
+##Multilayer Perceptron - Accuracy = 98.15%
 
 
 ![Alt text](https://github.com/nildip/DeepLearn_NUMBERS/blob/master/model_images/model_simple_nn.png)
 
 
-Multilayer 1D CNN - Accuracy = 98.15%
+##Multilayer 1D CNN - Accuracy = 98.42%
 
 
 ![Alt text](https://github.com/nildip/DeepLearn_NUMBERS/blob/master/model_images/model_simple_1Dcnn.png)
 
 
-Multilayer 2D CNN - Accuracy = 98.15%
+##Multilayer 2D CNN - Accuracy = 98.74%
 
 
 ![Alt text](https://github.com/nildip/DeepLearn_NUMBERS/blob/master/model_images/model_simple_2Dcnn.png)
 
 
-Multilayer Stacked 1D CNN - Accuracy = 98.15%
+##Multilayer Stacked 1D CNN - Accuracy = %
 
 
-![Alt text](https://github.com/nildip/DeepLearn_NUMBERS/blob/master/model_images/model_simple_1Dcnn.png)
+![Alt text](https://github.com/nildip/DeepLearn_NUMBERS/blob/master/model_images/model_stacked_1Dcnn.png)
 
 
-Multilayer Stacked 2D CNN - Accuracy = 98.15%
+##Multilayer Stacked 2D CNN - Accuracy = %
 
 
-![Alt text](https://github.com/nildip/DeepLearn_NUMBERS/blob/master/model_images/model_simple_1Dcnn.png)
+![Alt text](https://github.com/nildip/DeepLearn_NUMBERS/blob/master/model_images/model_stacked_2Dcnn.png)
 
 
-Multilayer Multitowered 2D CNN - Accuracy = 98.15%
+##Multilayer Multitowered 2D CNN - Accuracy = %
 
 
-![Alt text](https://github.com/nildip/DeepLearn_NUMBERS/blob/master/model_images/model_simple_1Dcnn.png)
+![Alt text](https://github.com/nildip/DeepLearn_NUMBERS/blob/master/model_images/model_multitower_2Dcnn.png)
