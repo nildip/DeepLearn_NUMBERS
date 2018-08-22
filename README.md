@@ -16,17 +16,32 @@ Multilayer Perceptron - Accuracy = 98.15%
 
 ![Alt text](https://github.com/nildip/DeepLearn_NUMBERS/blob/master/model_images/model_simple_1Dcnn.png?raw=true)
 
+
 Multilayer 1D CNN - Accuracy = 98.15%
-![Alt text](https://github.com/nildip/DeepLearn_NUMBERS/blob/master/model_images/model_simple_1Dcnn.png "Multilayer Perceptron - Accuracy = 98.15%")
+
+
+![Alt text](https://github.com/nildip/DeepLearn_NUMBERS/blob/master/model_images/model_simple_1Dcnn.png)
+
 
 Multilayer 2D CNN - Accuracy = 98.15%
-![Alt text](https://github.com/nildip/DeepLearn_NUMBERS/blob/master/model_images/model_simple_1Dcnn.png "Multilayer Perceptron - Accuracy = 98.15%")
+
+
+![Alt text](https://github.com/nildip/DeepLearn_NUMBERS/blob/master/model_images/model_simple_1Dcnn.png)
+
 
 Multilayer Stacked 1D CNN - Accuracy = 98.15%
-![Alt text](https://github.com/nildip/DeepLearn_NUMBERS/blob/master/model_images/model_simple_1Dcnn.png "Multilayer Perceptron - Accuracy = 98.15%")
+
+
+![Alt text](https://github.com/nildip/DeepLearn_NUMBERS/blob/master/model_images/model_simple_1Dcnn.png)
+
 
 Multilayer Stacked 2D CNN - Accuracy = 98.15%
-![Alt text](https://github.com/nildip/DeepLearn_NUMBERS/blob/master/model_images/model_simple_1Dcnn.png "Multilayer Perceptron - Accuracy = 98.15%")
+
+
+![Alt text](https://github.com/nildip/DeepLearn_NUMBERS/blob/master/model_images/model_simple_1Dcnn.png)
+
 
 Multilayer Multitowered 2D CNN - Accuracy = 98.15%
-![Alt text](https://github.com/nildip/DeepLearn_NUMBERS/blob/master/model_images/model_simple_1Dcnn.png "Multilayer Perceptron - Accuracy = 98.15%")
+
+
+![Alt text](https://github.com/nildip/DeepLearn_NUMBERS/blob/master/model_images/model_simple_1Dcnn.png)
