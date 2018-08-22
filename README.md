@@ -14,7 +14,7 @@ For our experiments, we'll fit various types of neural nets (vanilla multilayere
 Multilayer Perceptron - Accuracy = 98.15%
 
 
-![Alt text](https://github.com/nildip/DeepLearn_NUMBERS/blob/master/model_images/model_simple_1Dcnn.png?raw=true)
+![Alt text](https://github.com/nildip/DeepLearn_NUMBERS/blob/master/model_images/model_simple_nn.png)
 
 
 Multilayer 1D CNN - Accuracy = 98.15%
@@ -26,7 +26,7 @@ Multilayer 1D CNN - Accuracy = 98.15%
 Multilayer 2D CNN - Accuracy = 98.15%
 
 
-![Alt text](https://github.com/nildip/DeepLearn_NUMBERS/blob/master/model_images/model_simple_1Dcnn.png)
+![Alt text](https://github.com/nildip/DeepLearn_NUMBERS/blob/master/model_images/model_simple_2Dcnn.png)
 
 
 Multilayer Stacked 1D CNN - Accuracy = 98.15%
