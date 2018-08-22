@@ -4,6 +4,7 @@ import itertools
 import numpy as np
 from sklearn.metrics import confusion_matrix
 from keras import backend as K
+import keras
 
 # function to plot the confusion matrix
 def plot_confusion_matrix(Y_true, Y_predicted, classes, normalize=False):
