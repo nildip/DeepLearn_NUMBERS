@@ -29,19 +29,19 @@ For our experiments, we'll fit various types of neural nets (vanilla multilayere
 ![Alt text](https://github.com/nildip/DeepLearn_NUMBERS/blob/master/model_images/model_simple_2Dcnn.png)
 
 
-### Multilayer Stacked 1D CNN - Accuracy = %
+### Multilayer Stacked 1D CNN - Accuracy = 98.45%
 
 
 ![Alt text](https://github.com/nildip/DeepLearn_NUMBERS/blob/master/model_images/model_stacked_1Dcnn.png)
 
 
-### Multilayer Stacked 2D CNN - Accuracy = %
+### Multilayer Stacked 2D CNN - Accuracy = 99.04%
 
 
 ![Alt text](https://github.com/nildip/DeepLearn_NUMBERS/blob/master/model_images/model_stacked_2Dcnn.png)
 
 
-### Multilayer Multitowered 2D CNN - Accuracy = %
+### Multilayer Multitowered 2D CNN - Accuracy = 98.73%
 
 
 ![Alt text](https://github.com/nildip/DeepLearn_NUMBERS/blob/master/model_images/model_multitower_2Dcnn.png)
